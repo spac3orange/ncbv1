@@ -1,0 +1,134 @@
+2024-09-25 22:16:31.635 | ERROR    | __main__:<module>:43 - Telegram server says - Unauthorized
+2024-09-25 22:16:54.755 | ERROR    | __main__:<module>:43 - Telegram server says - Unauthorized
+2024-09-25 22:21:28.055 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:21:30.864 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:21:35.575 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:21:39.898 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:21.340 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:27.133 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:29.135 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-kwink-25-sentyabrya/ not found
+2024-09-25 22:24:31.145 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/ not found
+2024-09-25 22:24:34.618 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:25:06.131 | ERROR    | utils.ds_ai:get_req:108 - 'choices'
+2024-09-25 22:28:36.158 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/ not found
+2024-09-25 22:28:52.824 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:28:54.840 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:28:56.849 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/ not found
+2024-09-25 22:29:18.532 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-grand-combat-25-sentyabrya/ not found
+2024-09-25 22:29:34.378 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:30:00.904 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:30:02.914 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tapcoins-25-sentyabrya/ not found
+2024-09-25 22:30:29.253 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:30:31.892 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:30:55.824 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/ not found
+2024-09-25 22:30:57.847 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:31:45.086 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bird-ton-25-sentyabrya/ not found
+2024-09-25 22:32:02.519 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:32:26.698 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/ not found
+2024-09-25 22:32:53.562 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:32:55.562 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:33:24.313 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/ not found
+2024-09-25 22:33:36.122 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:34:52.474 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:35:18.312 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tap-swap-25-sentyabrya/ not found
+2024-09-25 22:36:08.049 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:36:42.804 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tap-swap-25-sentyabrya/ not found
+2024-09-25 22:36:44.813 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/ not found
+2024-09-25 22:36:59.913 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:12.060 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:26.030 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:40.118 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:42.134 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/ not found
+2024-09-25 22:37:44.148 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-cat-id-paws-25-sentyabrya/ not found
+2024-09-25 22:37:56.965 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:38:21.238 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:38:35.641 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:38:37.656 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-vertus-25-sentyabrya/ not found
+2024-09-25 22:39:05.546 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:07.997 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:39:09.996 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:39:22.461 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:37.186 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:50.269 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:52.265 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-cat-gold-miner-25-sentyabrya/ not found
+2024-09-25 22:40:23.962 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:40:25.966 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/ccombo-trumpump-25-sentyabrya/ not found
+2024-09-25 22:40:36.785 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:40:38.796 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-grand-combat-25-sentyabrya/ not found
+2024-09-25 22:40:51.374 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:02.521 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:04.536 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-onus-25-sentyabrya/ not found
+2024-09-25 22:41:16.969 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:29.863 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:41.735 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:43.746 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tomarket-25-sentyabrya/ not found
+2024-09-25 22:41:59.769 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:01.779 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/ not found
+2024-09-25 22:42:13.636 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:25.323 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:27.329 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-memefi-25-sentyabrya/ not found
+2024-09-25 22:42:29.341 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-kwink-25-sentyabrya/ not found
+2024-09-25 22:42:31.350 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/ not found
+2024-09-25 22:42:43.401 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:56.998 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:11.065 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:13.080 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tapcoins-25-sentyabrya/ not found
+2024-09-25 22:43:24.747 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:26.756 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-orbitonx-25-sentyabrya/ not found
+2024-09-25 22:43:43.489 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:54.297 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:05.934 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:07.943 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:44:20.359 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:33.713 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:47.167 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:58.051 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:11.724 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:13.733 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bird-ton-25-sentyabrya/ not found
+2024-09-25 22:45:15.736 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-gemz-25-sentyabrya/ not found
+2024-09-25 22:45:32.193 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:43.644 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:45.654 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-hashcats-25-sentyabrya/ not found
+2024-09-25 22:46:00.798 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:19.423 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:31.501 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:45.360 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:56.841 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:10.868 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:12.872 | ERROR    | utils.parser:fetch_news:60 - parser for https://www.kommersant.ru/doc/7182331 not found
+2024-09-25 22:47:27.871 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:39.971 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:53.968 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:05.021 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:19.890 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:32.776 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:35.352 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:48:47.572 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:59.543 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:01.557 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:49:03.565 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-spell-wallet-25-sentyabrya/ not found
+2024-09-25 22:49:15.067 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:17.071 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-time-farm-25-sentyabrya/ not found
+2024-09-25 22:49:31.760 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:33.770 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/ not found
+2024-09-25 22:49:46.060 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:48.066 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-chaincrops-25-sentyabrya/ not found
+2024-09-25 22:50:00.676 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:11.800 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:24.588 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:26.600 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:50:28.603 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:50:40.583 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:50.490 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:01.857 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:13.155 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:15.170 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/ not found
+2024-09-25 22:51:29.327 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:40.885 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:53.316 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:55.914 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:52:10.210 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:24.368 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:37.929 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:51.088 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:53:05.194 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found

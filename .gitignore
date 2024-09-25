@@ -1,0 +1,14 @@
+# Ignore the .env file
+config/.env
+
+# Ignore the venv directory
+.venv/
+
+#ignore sessions folder
+crud/data/telethon_sessions
+
+#ignore ds keys
+utils/ds_keys.json
+
+#ignore images folder
+utils/images

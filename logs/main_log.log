@@ -1,0 +1,369 @@
+2024-09-25 22:16:31.106 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:16:31.348 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:16:31.363 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:16:31.367 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:16:31.370 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:16:31.635 | ERROR    | __main__:<module>:43 - Telegram server says - Unauthorized
+2024-09-25 22:16:54.307 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:16:54.474 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:16:54.480 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:16:54.483 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:16:54.484 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:16:54.755 | ERROR    | __main__:<module>:43 - Telegram server says - Unauthorized
+2024-09-25 22:21:21.682 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:21:21.829 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:21:22.126 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:21:22.129 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:21:22.130 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:21:23.133 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:21:23.133 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/vitalik-buterin-polozhitelno-otozvalsya-o-celo/
+2024-09-25 22:21:28.055 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:21:30.075 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/visa-zapuskaet-ploshhadku-dlya-tokenizaczii-aktivov-na-ethereum/
+2024-09-25 22:21:30.864 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:21:32.878 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/grjadushhij-meta-connect-2024-novye-avatary-i-ambicioznye-plany-cukerberga/
+2024-09-25 22:21:35.575 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:21:37.588 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/bitkoin-etf-na-pozitive-chetvertyj-den-podrjad-nabljudaetsja-pritok-sredstv/
+2024-09-25 22:21:39.898 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:21:40.652 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:24:16.241 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:24:16.421 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:24:16.427 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:24:16.431 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:24:16.433 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:24:17.488 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:24:17.488 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/bitfinex-bitkoinu-nuzhno-zakrepitsya-vyshe-65-200/
+2024-09-25 22:24:21.340 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:23.363 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/vitalik-buterin-polozhitelno-otozvalsya-o-celo/
+2024-09-25 22:24:27.133 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:29.135 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-kwink-25-sentyabrya/
+2024-09-25 22:24:29.135 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-kwink-25-sentyabrya/ not found
+2024-09-25 22:24:31.145 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/
+2024-09-25 22:24:31.145 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/ not found
+2024-09-25 22:24:33.158 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/ester-pirs-sec-namerenno-ispolzuet-rasplyvchatye-formulirovki-v-otnoshenii-tsifrovykh-aktivov/
+2024-09-25 22:24:34.618 | ERROR    | utils.ds_ai:get_req:107 - 'choices'
+2024-09-25 22:24:36.073 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:25:00.301 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:25:00.457 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:25:00.465 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:25:00.468 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:25:00.469 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:25:01.860 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:25:01.861 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/kerolajn-ellison-dali-dva-goda-tyurmy/
+2024-09-25 22:25:06.131 | ERROR    | utils.ds_ai:get_req:108 - 'choices'
+2024-09-25 22:25:07.774 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:28:08.568 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:28:08.724 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:28:08.730 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:28:08.732 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:28:08.734 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:28:09.975 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:28:09.975 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinlife.com/news/amerikanskie-finansovye-sovetniki-vse-chashhe-investirujut-v-kriptovaljutu/
+2024-09-25 22:28:23.508 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/v-chetvyortom-kvartale-bitkoin-podorozhaet-do-72000-uvereny-analitiki/
+2024-09-25 22:28:36.158 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/
+2024-09-25 22:28:36.158 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/ not found
+2024-09-25 22:28:38.168 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/vitalik-buterin-polozhitelno-otozvalsya-o-celo/
+2024-09-25 22:28:52.824 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-holdcoin-25-sentyabrya/
+2024-09-25 22:28:52.824 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:28:54.840 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/
+2024-09-25 22:28:54.840 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:28:56.849 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/
+2024-09-25 22:28:56.849 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/ not found
+2024-09-25 22:28:58.645 | INFO     | handlers.start:process_start:14 - user Jisierk connected
+2024-09-25 22:28:58.857 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3e5e49a794770682c02d6
+2024-09-25 22:29:07.816 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/uroven-kapitalizaczii-tokena-mema-popcat-prevysil-1-mlrd/
+2024-09-25 22:29:18.532 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-grand-combat-25-sentyabrya/
+2024-09-25 22:29:18.532 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-grand-combat-25-sentyabrya/ not found
+2024-09-25 22:29:20.532 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/analitiki-stagnatsiya-bitkoina-podoshla-k-kontsu/
+2024-09-25 22:29:34.378 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/
+2024-09-25 22:29:34.378 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:29:36.383 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/charlz-khoskinson-v-efiriume-pravit-diktator-a-v-bitkoine-anarkhisty/
+2024-09-25 22:29:47.502 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/sec-nalozhila-shtraf-na-trusttoken-i-truecoin/
+2024-09-25 22:30:00.135 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://xrp-buy.ru/novosti/ripple-vypuskaet-krupnejshuju-partiju-svoej-stabilnoj-monety-rlusd-perspektivy-rlusd-i-vlijanie-na-rynok/
+2024-09-25 22:30:00.904 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:30:02.914 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-tapcoins-25-sentyabrya/
+2024-09-25 22:30:02.914 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tapcoins-25-sentyabrya/ not found
+2024-09-25 22:30:04.922 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/sec-otkladyvaet-reshenie-po-opcionam-na-ethereum-etf-posle-odobrenija-bitkoin-opcionov/
+2024-09-25 22:30:17.101 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/qcp-capital-predstavila-agressivnye-torgovye-strategii-na-fone-blagoprijatnoj-makrojekonomiki/
+2024-09-25 22:30:29.253 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-baboon-25-sentyabrya/
+2024-09-25 22:30:29.253 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:30:31.259 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/visa-zapuskaet-ploshhadku-dlya-tokenizaczii-aktivov-na-ethereum/
+2024-09-25 22:30:31.892 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:30:33.902 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/investory-otkazyvayutsya-ot-ethereum-v-polzu-solana/
+2024-09-25 22:30:44.767 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/v-kazakhstane-pod-vidom-tsentra-obrabotki-dvigateley-pryatalas-mayningovaya-ferma-/
+2024-09-25 22:30:55.824 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/
+2024-09-25 22:30:55.824 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/ not found
+2024-09-25 22:30:57.847 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-zencoin-25-sentyabrya/
+2024-09-25 22:30:57.847 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:30:59.852 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/trusttoken-truecoin-settle-sec-charges-over-misleading-tusd-claims/
+2024-09-25 22:31:09.736 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/byvshuyu-devushku-osnovatelya-kriptobirzhi-ftx-posadili-na-dva-goda/
+2024-09-25 22:31:22.608 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/bitget-research-btc-budet-torgovatsya-v-diapazone-ot-58-000-do-72-000-v-oktyabre/
+2024-09-25 22:31:35.186 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/bitget-research-tsena-bitkoina-v-sleduyushchem-mesyatse-prevysit-pokazateli-sentyabrya/
+2024-09-25 22:31:45.086 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-bird-ton-25-sentyabrya/
+2024-09-25 22:31:45.086 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bird-ton-25-sentyabrya/ not found
+2024-09-25 22:31:47.100 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/charlz-hoskinson-raskritikoval-ethereum/
+2024-09-25 22:31:51.484 | INFO     | utils.main_monitoring:start_monitoring:187 - monitoring already enabled
+2024-09-25 22:31:56.892 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:32:00.882 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:32:01.042 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:32:01.048 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:32:01.051 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:32:01.053 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:32:02.518 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:32:02.519 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-holdcoin-25-sentyabrya/
+2024-09-25 22:32:02.519 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:32:04.530 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3cf1a9a79474f674ae40a
+2024-09-25 22:32:15.812 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/hoskinson-atakuet-pochemu-sozdatel-cardano-schitaet-ethereum-diktaturoj-buterina/
+2024-09-25 22:32:26.698 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/
+2024-09-25 22:32:26.698 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/ not found
+2024-09-25 22:32:28.707 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/ester-pirs-sec-namerenno-ispolzuet-rasplyvchatye-formulirovki-v-otnoshenii-tsifrovykh-aktivov/
+2024-09-25 22:32:39.986 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/charlz-hoskinson-zayavil-chto-vitalik-buterin-stal-diktatorom/
+2024-09-25 22:32:53.152 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://xrp-buy.ru/xlm/jeti-tri-osnovnye-monety-teper-dostupny-dlja-polzovatelej-robinhood-v-nju-jorke/
+2024-09-25 22:32:53.562 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:32:55.562 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-zencoin-25-sentyabrya/
+2024-09-25 22:32:55.562 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:32:57.572 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/societe-generale-zapuskaet-torgovlyu-steyblkoinom-eurcv-na-birzhe-bitpanda-/
+2024-09-25 22:33:09.747 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/geri-genslera-raskritikovali-v-kongresse-ssha/
+2024-09-25 22:33:24.313 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/
+2024-09-25 22:33:24.313 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/ not found
+2024-09-25 22:33:26.325 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/geri-gensler-kriptoindustriya-pogryazla-v-moshennichestve/
+2024-09-25 22:33:36.122 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/
+2024-09-25 22:33:36.122 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:33:38.140 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/bitget-research-btc-budet-torgovatsya-v-diapazone-ot-58-000-do-72-000-v-oktyabre/
+2024-09-25 22:33:50.864 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/salvador-zaklyuchil-sdelku-po-postavke-kofe-s-oplatoy-v-bitkoinakh/
+2024-09-25 22:34:00.145 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/eks-glava-alameda-research-poluchila-dva-goda-tyurmy-za-uchastie-v-moshennichestve-s-ftx/
+2024-09-25 22:34:11.018 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/planb-bitkoin-nabiraet-silu-i-gotovitsya-k-ryvku/
+2024-09-25 22:34:23.280 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/shvejczarskij-kantonal-bank-nachal-predlagat-kriptouslugi/
+2024-09-25 22:34:52.473 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/
+2024-09-25 22:34:52.474 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:34:54.486 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/bitkoin-etf-na-pozitive-chetvertyj-den-podrjad-nabljudaetsja-pritok-sredstv/
+2024-09-25 22:35:05.841 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f2c3779a794764606d2e7a
+2024-09-25 22:35:18.312 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-tap-swap-25-sentyabrya/
+2024-09-25 22:35:18.312 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tap-swap-25-sentyabrya/ not found
+2024-09-25 22:35:20.320 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinspot.io/cryptocurrencies/pixeltap-kombo-na-segodnya-25-sentyabrya/
+2024-09-25 22:35:31.424 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/ekspert-predstavil-prognoz-o-czene-ton-v-oktyabre/
+2024-09-25 22:35:41.306 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/sec-nalozhila-shtraf-na-trusttoken-i-truecoin/
+2024-09-25 22:36:08.049 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-baboon-25-sentyabrya/
+2024-09-25 22:36:08.049 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:36:10.054 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f4547f9a794732bfffa9ea
+2024-09-25 22:36:18.529 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:36:39.459 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:36:39.608 | INFO     | utils.main_monitoring:__init__:183 - scheduler initialized but not started
+2024-09-25 22:36:39.614 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:36:39.617 | INFO     | utils.main_monitoring:start_monitoring:194 - monitoring started
+2024-09-25 22:36:39.618 | INFO     | utils.main_monitoring:parse_news:67 - parsing news from coinlenta...
+2024-09-25 22:36:42.804 | INFO     | utils.main_monitoring:parse_news:82 - new links found
+2024-09-25 22:36:42.804 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-tap-swap-25-sentyabrya/
+2024-09-25 22:36:42.804 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tap-swap-25-sentyabrya/ not found
+2024-09-25 22:36:44.813 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/
+2024-09-25 22:36:44.813 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/ark-invest-sells-28m-its-own-bitcoin-etf/ not found
+2024-09-25 22:36:46.825 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/banana-gun-vozmestit-3-mln-postradavshim-polzovatelyam/
+2024-09-25 22:36:59.913 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:01.915 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/truecoin-llc-i-trusttoken-zaplatyat-shtraf-500-000-za-nezakonnoe-predlozhenie-steyblkoinov/
+2024-09-25 22:37:12.060 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:14.064 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/charlz-hoskinson-raskritikoval-ethereum/
+2024-09-25 22:37:26.030 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:28.035 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/byvshuyu-devushku-osnovatelya-kriptobirzhi-ftx-posadili-na-dva-goda/
+2024-09-25 22:37:40.118 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:42.134 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/
+2024-09-25 22:37:42.134 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-treasure-tapper-25-sentyabrya/ not found
+2024-09-25 22:37:44.148 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-cat-id-paws-25-sentyabrya/
+2024-09-25 22:37:44.148 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-cat-id-paws-25-sentyabrya/ not found
+2024-09-25 22:37:46.141 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3b6a79a7947c3db88e8bb
+2024-09-25 22:37:56.965 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:37:58.980 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/tom-emmer-geri-gensler-sam-sozdaet-bezzakonie-v-kriptoindustrii/
+2024-09-25 22:38:21.238 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:38:23.246 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f433709a7947144760d1f4
+2024-09-25 22:38:35.641 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:38:37.656 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-vertus-25-sentyabrya/
+2024-09-25 22:38:37.656 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-vertus-25-sentyabrya/ not found
+2024-09-25 22:38:39.668 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/charlz-hoskinson-zayavil-chto-vitalik-buterin-stal-diktatorom/
+2024-09-25 22:39:05.546 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:07.549 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://xrp-buy.ru/xlm/jeti-tri-osnovnye-monety-teper-dostupny-dlja-polzovatelej-robinhood-v-nju-jorke/
+2024-09-25 22:39:07.997 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:39:09.996 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-zencoin-25-sentyabrya/
+2024-09-25 22:39:09.996 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-zencoin-25-sentyabrya/ not found
+2024-09-25 22:39:12.019 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/appetity-iskusstvennogo-intellekta-openai-nuzhdaetsja-v-jelektrojenergii-pjati-atomnyh-reaktorov/
+2024-09-25 22:39:22.461 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:24.453 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/v-stolicze-kazahstana-likvidirovali-nezakonnuyu-fermu-dlya-majninga/
+2024-09-25 22:39:37.186 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:39.195 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/investory-otkazyvayutsya-ot-ethereum-v-polzu-solana/
+2024-09-25 22:39:50.269 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:39:52.265 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-cat-gold-miner-25-sentyabrya/
+2024-09-25 22:39:52.265 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-cat-gold-miner-25-sentyabrya/ not found
+2024-09-25 22:39:54.276 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinspot.io/cryptocurrencies/metatrader-5-vs-metatrader-4-chto-luchshe-dlya-torgovli/
+2024-09-25 22:40:23.962 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:40:25.966 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/ccombo-trumpump-25-sentyabrya/
+2024-09-25 22:40:25.966 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/ccombo-trumpump-25-sentyabrya/ not found
+2024-09-25 22:40:27.973 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3eab19a794799259c994d
+2024-09-25 22:40:36.785 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:40:38.796 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-grand-combat-25-sentyabrya/
+2024-09-25 22:40:38.796 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-grand-combat-25-sentyabrya/ not found
+2024-09-25 22:40:40.803 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/binance-pomogla-vlastyam-indii-raskryt-kriptomoshennichestvo-na-47-mln/
+2024-09-25 22:40:51.374 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:40:53.378 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/planb-bitkoin-nabiraet-silu-i-gotovitsya-k-ryvku/
+2024-09-25 22:41:02.521 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:04.536 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-onus-25-sentyabrya/
+2024-09-25 22:41:04.536 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-onus-25-sentyabrya/ not found
+2024-09-25 22:41:06.547 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/bitkoin-etf-na-pozitive-chetvertyj-den-podrjad-nabljudaetsja-pritok-sredstv/
+2024-09-25 22:41:16.969 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:18.981 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/analitiki-stagnatsiya-bitkoina-podoshla-k-kontsu/
+2024-09-25 22:41:29.863 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:31.879 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3e5e49a794770682c02d6
+2024-09-25 22:41:41.735 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:41:43.746 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-tomarket-25-sentyabrya/
+2024-09-25 22:41:43.746 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tomarket-25-sentyabrya/ not found
+2024-09-25 22:41:45.751 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/geri-genslera-raskritikovali-v-kongresse-ssha/
+2024-09-25 22:41:59.769 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:01.779 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/
+2024-09-25 22:42:01.779 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-oxygen-miner-25-sentyabrya/ not found
+2024-09-25 22:42:03.789 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/komanda-hamster-kombat-zablokirovala-na-binance-14-mlrd-steyblkoinov-usdt-/
+2024-09-25 22:42:13.636 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:15.649 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/sec-nalozhila-shtraf-na-trusttoken-i-truecoin/
+2024-09-25 22:42:25.323 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:27.329 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-memefi-25-sentyabrya/
+2024-09-25 22:42:27.329 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-memefi-25-sentyabrya/ not found
+2024-09-25 22:42:29.341 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-kwink-25-sentyabrya/
+2024-09-25 22:42:29.341 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-kwink-25-sentyabrya/ not found
+2024-09-25 22:42:31.350 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/
+2024-09-25 22:42:31.350 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bitcoin-etfs-attract-136-million/ not found
+2024-09-25 22:42:33.355 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/societe-generale-zapuskaet-torgovlyu-steyblkoinom-eurcv-na-birzhe-bitpanda-/
+2024-09-25 22:42:43.401 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:45.411 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/binance-soobshhila-o-zapuske-premarketa-s-realnymi-tokenami/
+2024-09-25 22:42:56.998 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:42:58.999 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/sec-perenosit-rassmotrenie-optsionov-na-ethereum-etf/
+2024-09-25 22:43:11.065 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:13.080 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-tapcoins-25-sentyabrya/
+2024-09-25 22:43:13.080 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-tapcoins-25-sentyabrya/ not found
+2024-09-25 22:43:15.088 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f3cf1a9a79474f674ae40a
+2024-09-25 22:43:24.747 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:26.756 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-orbitonx-25-sentyabrya/
+2024-09-25 22:43:26.756 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-orbitonx-25-sentyabrya/ not found
+2024-09-25 22:43:28.759 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/kerolajn-ellison-dali-dva-goda-tyurmy/
+2024-09-25 22:43:43.489 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:45.499 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinspot.io/cryptocurrencies/pixeltap-kombo-na-segodnya-25-sentyabrya/
+2024-09-25 22:43:54.297 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:43:56.309 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/eks-glava-alameda-research-poluchila-dva-goda-tyurmy-za-uchastie-v-moshennichestve-s-ftx/
+2024-09-25 22:44:05.934 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:07.943 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/
+2024-09-25 22:44:07.943 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/sec-reaches-settlement-truecoin-and-trusttoken/ not found
+2024-09-25 22:44:09.958 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/ester-pirs-sec-namerenno-ispolzuet-rasplyvchatye-formulirovki-v-otnoshenii-tsifrovykh-aktivov/
+2024-09-25 22:44:20.359 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:22.372 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/proekt-dogs-provedet-szhiganie-tokenov/
+2024-09-25 22:44:33.713 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:35.736 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/grjadushhij-meta-connect-2024-novye-avatary-i-ambicioznye-plany-cukerberga/
+2024-09-25 22:44:47.167 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:44:49.191 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/exodus-pozhertvoval-13-mln-dlya-povysheniya-yavki-izbiratelej-v-ssha/
+2024-09-25 22:44:58.051 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:00.056 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/podyom-lyagushachih-memkoinov-namekaet-na-rost-budushhih-proektov/
+2024-09-25 22:45:11.724 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:13.733 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-bird-ton-25-sentyabrya/
+2024-09-25 22:45:13.733 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bird-ton-25-sentyabrya/ not found
+2024-09-25 22:45:15.736 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-gemz-25-sentyabrya/
+2024-09-25 22:45:15.736 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-gemz-25-sentyabrya/ not found
+2024-09-25 22:45:17.748 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/qcp-capital-predstavila-agressivnye-torgovye-strategii-na-fone-blagoprijatnoj-makrojekonomiki/
+2024-09-25 22:45:32.193 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:34.201 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/trusttoken-truecoin-settle-sec-charges-over-misleading-tusd-claims/
+2024-09-25 22:45:43.644 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:45:45.654 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-hashcats-25-sentyabrya/
+2024-09-25 22:45:45.654 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-hashcats-25-sentyabrya/ not found
+2024-09-25 22:45:47.663 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/bitfinex-bitkoinu-nuzhno-zakrepitsya-vyshe-65-200/
+2024-09-25 22:46:00.798 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:02.800 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/posle-odobreniya-etf-xrp-mozhet-podorozhat-do-10-a-etfswap-na-50000/
+2024-09-25 22:46:19.423 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:21.424 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f4547f9a794732bfffa9ea
+2024-09-25 22:46:31.501 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:33.502 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinlife.com/news/amerikanskie-finansovye-sovetniki-vse-chashhe-investirujut-v-kriptovaljutu/
+2024-09-25 22:46:45.360 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:47.371 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/ekspert-predstavil-prognoz-o-czene-ton-v-oktyabre/
+2024-09-25 22:46:56.841 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:46:58.844 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/kriptokoroleva-kjerolajn-jellison-poluchila-dva-goda-za-milliardnye-afery-ftx/
+2024-09-25 22:47:10.868 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:12.872 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.kommersant.ru/doc/7182331
+2024-09-25 22:47:12.872 | ERROR    | utils.parser:fetch_news:60 - parser for https://www.kommersant.ru/doc/7182331 not found
+2024-09-25 22:47:14.881 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/cybro-preodolel-otmetku-v-25-mln-investiczij-zajmyot-li-on-mesto-lidera-sredi-ii-kriptoproektov/
+2024-09-25 22:47:27.871 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:29.877 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/charlz-khoskinson-v-efiriume-pravit-diktator-a-v-bitkoine-anarkhisty/
+2024-09-25 22:47:39.971 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:41.980 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/ni-monety-vragu-prodavcy-bitkoina-zatailis-v-ozhidanii-novogo-istoricheskogo-maksimuma/
+2024-09-25 22:47:53.968 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:47:55.968 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/komanda-hamster-kombat-soobshhila-o-poyavlenii-tokena-hmstr-na-binance/
+2024-09-25 22:48:05.021 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:07.019 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/vitalik-buterin-polozhitelno-otozvalsya-o-celo/
+2024-09-25 22:48:19.890 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:21.895 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinspot.io/technology/bitcoin/popolnit-bitcoin-koshelek/
+2024-09-25 22:48:32.776 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:34.791 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://xrp-buy.ru/novosti/ripple-vypuskaet-krupnejshuju-partiju-svoej-stabilnoj-monety-rlusd-perspektivy-rlusd-i-vlijanie-na-rynok/
+2024-09-25 22:48:35.352 | ERROR    | utils.parser:__parse_xrpbuy:232 - [Errno 2] No such file or directory: 'utils/images/%3C/svg%3E'
+2024-09-25 22:48:37.367 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/cardano-podala-samyj-silnyj-signal-na-pokupku-s-czelyu-na-5/
+2024-09-25 22:48:47.572 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:48:49.582 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/v-kazakhstane-pod-vidom-tsentra-obrabotki-dvigateley-pryatalas-mayningovaya-ferma-/
+2024-09-25 22:48:59.543 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:01.556 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-holdcoin-25-sentyabrya/
+2024-09-25 22:49:01.557 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-holdcoin-25-sentyabrya/ not found
+2024-09-25 22:49:03.565 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-spell-wallet-25-sentyabrya/
+2024-09-25 22:49:03.565 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-spell-wallet-25-sentyabrya/ not found
+2024-09-25 22:49:05.573 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/bitget-research-tsena-bitkoina-v-sleduyushchem-mesyatse-prevysit-pokazateli-sentyabrya/
+2024-09-25 22:49:15.067 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:17.071 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-time-farm-25-sentyabrya/
+2024-09-25 22:49:17.071 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-time-farm-25-sentyabrya/ not found
+2024-09-25 22:49:19.084 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/v-chetvyortom-kvartale-bitkoin-podorozhaet-do-72000-uvereny-analitiki/
+2024-09-25 22:49:31.760 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:33.770 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/
+2024-09-25 22:49:33.770 | ERROR    | utils.parser:fetch_news:60 - parser for https://ihodl.com/topnews/2024-09-25/bny-mellon-offer-crypto-etfs-custody-services/ not found
+2024-09-25 22:49:35.776 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/salvador-zaklyuchil-sdelku-po-postavke-kofe-s-oplatoy-v-bitkoinakh/
+2024-09-25 22:49:46.060 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:49:48.066 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-chaincrops-25-sentyabrya/
+2024-09-25 22:49:48.066 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-chaincrops-25-sentyabrya/ not found
+2024-09-25 22:49:50.078 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/sec-otkladyvaet-reshenie-po-opcionam-na-ethereum-etf-posle-odobrenija-bitkoin-opcionov/
+2024-09-25 22:50:00.676 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:02.689 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f409f39a7947a3ec956313
+2024-09-25 22:50:11.800 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:13.804 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/planb-bitkoin-gotovitsya-k-rostu/
+2024-09-25 22:50:24.588 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:26.600 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/
+2024-09-25 22:50:26.600 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-bee-harvest-25-sentyabrya/ not found
+2024-09-25 22:50:28.603 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-baboon-25-sentyabrya/
+2024-09-25 22:50:28.603 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-baboon-25-sentyabrya/ not found
+2024-09-25 22:50:30.629 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/glava-blackrock-po-kriptovaljutam-bitkoin-ne-otnositsja-k-riskovym-aktivam/
+2024-09-25 22:50:40.583 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:42.587 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/geri-gensler-kriptoindustriya-pogryazla-v-moshennichestve/
+2024-09-25 22:50:50.490 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:50:52.495 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/uroven-kapitalizaczii-tokena-mema-popcat-prevysil-1-mlrd/
+2024-09-25 22:51:01.857 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:03.873 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/birzha-kraken-priobrela-gollandskogo-kriptobrokera-bcm/
+2024-09-25 22:51:13.155 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:15.170 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/
+2024-09-25 22:51:15.170 | ERROR    | utils.parser:fetch_news:60 - parser for https://coinmania.com/news/combo-musk-empire-x-25-sentyabrya/ not found
+2024-09-25 22:51:17.170 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/samyj-razrushitelnyj-predsedatel-sec-gensler-popal-pod-razdachu-v-kongresse-ssha/
+2024-09-25 22:51:29.327 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:31.342 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/birzha-kraken-priobrela-gollandskogo-kriptobrokera-coin-meester/
+2024-09-25 22:51:40.885 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:42.891 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/sozdateli-tokena-mema-the-dogs-sozhgut-monety-posle-airdropa/
+2024-09-25 22:51:53.316 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:51:55.322 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/visa-zapuskaet-ploshhadku-dlya-tokenizaczii-aktivov-na-ethereum/
+2024-09-25 22:51:55.914 | ERROR    | utils.parser:__parse_happycoin:80 - [Errno 2] No such file or directory: 'utils/images/5/visa.jpg'
+2024-09-25 22:51:57.910 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://bits.media/vlasti-indonezii-s-pomoshchyu-binance-izyali-u-kriptomoshennikov-200-000/
+2024-09-25 22:52:10.210 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:12.218 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://happycoin.club/shvejczarskij-kantonal-bank-nachal-predlagat-kriptouslugi/
+2024-09-25 22:52:24.368 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:26.381 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://cryptocurrency.tech/bitget-research-btc-budet-torgovatsya-v-diapazone-ot-58-000-do-72-000-v-oktyabre/
+2024-09-25 22:52:37.929 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:39.936 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://hashtelegraph.com/hoskinson-atakuet-pochemu-sozdatel-cardano-schitaet-ethereum-diktaturoj-buterina/
+2024-09-25 22:52:51.088 | ERROR    | utils.main_monitoring:parse_news:149 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:52:53.095 | INFO     | utils.main_monitoring:parse_news:87 - parsing https://www.rbc.ru/crypto/news/66f2c3779a794764606d2e7a
+2024-09-25 22:53:05.194 | ERROR    | utils.main_monitoring:parse_news:160 - Telegram server says - Bad Request: chat not found
+2024-09-25 22:53:07.191 | WARNING  | utils.main_monitoring:parse_news:172 - links updated in utils/pages/known_links.json
+2024-09-25 22:56:32.358 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 22:56:35.497 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 22:56:35.663 | INFO     | utils.main_monitoring:__init__:184 - scheduler initialized but not started
+2024-09-25 22:56:35.670 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 22:56:35.673 | INFO     | utils.main_monitoring:start_monitoring:195 - monitoring started
+2024-09-25 22:56:35.675 | INFO     | utils.main_monitoring:parse_news:68 - parsing news from coinlenta...
+2024-09-25 23:11:35.680 | INFO     | utils.main_monitoring:parse_news:68 - parsing news from coinlenta...
+2024-09-25 23:26:35.698 | INFO     | utils.main_monitoring:parse_news:68 - parsing news from coinlenta...
+2024-09-25 23:37:53.853 | WARNING  | __main__:<module>:41 - Bot stopped
+2024-09-25 23:37:57.029 | INFO     | utils.modes:__init__:7 - modding is off
+2024-09-25 23:37:57.229 | INFO     | utils.main_monitoring:__init__:184 - scheduler initialized but not started
+2024-09-25 23:37:57.236 | INFO     | __main__:start_params:19 - Bot started
+2024-09-25 23:37:57.240 | INFO     | utils.main_monitoring:start_monitoring:195 - monitoring started
+2024-09-25 23:37:57.241 | INFO     | utils.main_monitoring:parse_news:68 - parsing news from coinlenta...
